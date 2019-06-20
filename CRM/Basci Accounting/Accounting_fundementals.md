@@ -18,3 +18,8 @@ Purchase order are similar as sales order but it is created by the consumer to a
 Invoices are a bill payment request document. Here the buyer and the seller is mentioned with the sold products list. The seller sends the invoice to the buyer and seeing the invoice the buyer get confirms about the pricing and quantiy of the purchased products and total money he need to pay.
 
 <br>
+
+### **Journal**
+**Bookkeeping** is the recording of all financial transactions in a business. A **journal** is a record of financial transection. Every transection has a debit portion and a credit portion. The total some of debit and credit should be equal. Journals are usually entry of ledgers.
+
+<br>
