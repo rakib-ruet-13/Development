@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-demo",
+  "version": "1.0.0",
+  "description": "This is a test direcory for learning git and node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakib-ruet-13/Software-Development"
+  },
+  "author": "Rakib Hassan",
+  "license": "ISC",
+  "homepage": "https://github.com/rakib-ruet-13/Software-Development/tree/master/Full%20stack%20development%20course%20by%20HKU/BootStrap%20and%20Front%20End%20development",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
